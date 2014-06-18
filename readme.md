@@ -4,7 +4,7 @@ Clicker is a Web-based manager for Linux machine; a remote control, if you will.
 
 As the project is still in its infancy, it is far from production-level. **Use at your own risk.**
 
-**TO BE CLEAR:** The way this application works is that you install a program on your computer and then you can configure your own computer remotely, **not** installation on your computer followed by the control of someone else's computer. If we make a program that does *that*, it's probably against the law, impossible to do, and a very *very* **very** ***very*** ***VERY*** bad idea besides.
+**TO BE CLEAR:** The way this application works is that you install a program on your computer and then you can configure your own computer remotely, **not** installation on your computer followed by the control of someone else's computer. If we make a program that does *that*, it's probably against the law, impossible to do, and a very *very* ***very*** ***VERY*** bad idea besides.
 
 #Risks
 
